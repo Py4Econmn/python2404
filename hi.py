@@ -1,4 +1,3 @@
 print('Hallo')
 print('Hi')
-print('Hi red button')
-...
+print('Hi red button 2')
